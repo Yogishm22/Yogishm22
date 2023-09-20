@@ -1,0 +1,6 @@
+list1 = ["ys", "lm", "mr"]
+#checking the type of given list
+print(type(list1))
+
+#printing list
+print(list1)
